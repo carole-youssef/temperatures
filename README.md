@@ -25,6 +25,7 @@ After collecting temperatures, the program calculates the sum and average of mid
 It also identifies the highest midday temperature and the lowest midnight temperature along with the respective days.
 
 Potential Enhancements:
+
 User-Friendly Interface:
 - Consider enhancing the user interface by providing clearer instructions and feedback.
   
@@ -35,6 +36,7 @@ Data Validation:
 - Implement additional data validation checks to ensure input correctness and prevent potential errors.
 
 How to Run:
+
 Ensure you have Python installed on your system.
 Copy and paste the code into a Python file (e.g., temperature_analysis.py).
 Run the script using a Python interpreter.
