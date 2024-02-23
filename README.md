@@ -2,7 +2,8 @@
 Temperature analysis program
 
 Overview:
-This Python program allows users to input midday and midnight temperatures for a span of three days. It then calculates and presents various temperature statistics, including total, average, highest midday temperature, and lowest midnight temperature.
+- This Python program allows users to input midday and midnight temperatures for a span of three days. It then calculates and presents various temperature statistics, including total, average,
+  highest midday temperature, and lowest midnight temperature.
 
 Instructions for Use:
 1) Input Midday and Midnight Temperatures:
@@ -18,11 +19,11 @@ Instructions for Use:
 - Lowest midnight temperature and the day it occurred.
 
 Code Structure:
-The program utilizes two lists (daytemp and nighttemp) to store midday and midnight temperatures, respectively.
-A function named Temperatures is defined to handle the input of temperatures for each day.
-A loop iterates three times to collect temperatures for three days.
-After collecting temperatures, the program calculates the sum and average of midday and midnight temperatures.
-It also identifies the highest midday temperature and the lowest midnight temperature along with the respective days.
+- The program utilizes two lists (daytemp and nighttemp) to store midday and midnight temperatures, respectively.
+- A function named Temperatures is defined to handle the input of temperatures for each day.
+- A loop iterates three times to collect temperatures for three days.
+- After collecting temperatures, the program calculates the sum and average of midday and midnight temperatures.
+- It also identifies the highest midday temperature and the lowest midnight temperature along with the respective days.
 
 Potential Enhancements:
 
@@ -36,8 +37,7 @@ Data Validation:
 - Implement additional data validation checks to ensure input correctness and prevent potential errors.
 
 How to Run:
-
-Ensure you have Python installed on your system.
-Copy and paste the code into a Python file (e.g., temperature_analysis.py).
-Run the script using a Python interpreter.
-Follow the on-screen prompts to input temperatures.
+- Ensure you have Python installed on your system.
+- Copy and paste the code into a Python file (e.g., temperature_analysis.py).
+- Run the script using a Python interpreter.
+- Follow the on-screen prompts to input temperatures.
